@@ -1,6 +1,6 @@
 # Frontend Assignment
 ---
-**Task:
+**Task**:
 You are required to create an interactive Kanban board application using React JS that interacts with the provided API. When a user clicks the "display" button and selects a grouping option, the Kanban board should dynamically adjust to reflect the user's choice.
 
 The application should offer three distinct ways to group the data:
@@ -26,14 +26,10 @@ The Kanban board should be responsive and visually appealing, with a design simi
 
 **Priority levels: (This values you will receive in the api)**
 
-4 - Urgent
-3 - High
-2 - Medium
-1 - Low
-0 - No priority
+4 - Urgent, 3 - High, 2 - Medium, 1 - Low, 0 - No priority
 
 Additionally, the application should save the user's view state even after page reload.
 
-**Results:
+**Results**:
 ![image](https://github.com/user-attachments/assets/f48ac646-fcde-4336-ad46-d527bd35fb60)
 ---
